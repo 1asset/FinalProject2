@@ -1,5 +1,6 @@
 # Image classification app made in the group of 3 students
 
+#### Group of students: Asset K., Dias K., Yeskendir I.
 It's the final project from the Python 2 course, that requires an Image classification service using Django and Keras
 
 # Installation
